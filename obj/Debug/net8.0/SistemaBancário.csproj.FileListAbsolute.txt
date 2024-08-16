@@ -1,0 +1,14 @@
+/home/jonatas/Documentos/C# .net/SistemaBancário/bin/Debug/net8.0/SistemaBancário
+/home/jonatas/Documentos/C# .net/SistemaBancário/bin/Debug/net8.0/SistemaBancário.deps.json
+/home/jonatas/Documentos/C# .net/SistemaBancário/bin/Debug/net8.0/SistemaBancário.runtimeconfig.json
+/home/jonatas/Documentos/C# .net/SistemaBancário/bin/Debug/net8.0/SistemaBancário.dll
+/home/jonatas/Documentos/C# .net/SistemaBancário/bin/Debug/net8.0/SistemaBancário.pdb
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/SistemaBancário.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/SistemaBancário.AssemblyInfoInputs.cache
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/SistemaBancário.AssemblyInfo.cs
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/SistemaBancário.csproj.CoreCompileInputs.cache
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/SistemaBancário.dll
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/refint/SistemaBancário.dll
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/SistemaBancário.pdb
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/SistemaBancário.genruntimeconfig.cache
+/home/jonatas/Documentos/C# .net/SistemaBancário/obj/Debug/net8.0/ref/SistemaBancário.dll
